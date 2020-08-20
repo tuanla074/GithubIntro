@@ -4,7 +4,8 @@ Apples
 Oranges
 Kiwis
 Grapes
-Potatoes
 Oreo
 Tomatoes
 Cookies
+Ice-Cream
+Blue-Berry pie
