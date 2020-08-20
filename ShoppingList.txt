@@ -5,3 +5,4 @@ Oranges
 Kiwis
 Grapes
 Potatoes
+Cereal
